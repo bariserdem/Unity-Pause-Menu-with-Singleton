@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305344e7733814f65adeaf8bc7f5504a, type: 3}
+  m_Name: GameSceneManager
+  m_EditorClassIdentifier: 
+  pauseMenuPrefab: {fileID: 7046444736834250750, guid: 46177ec25af6c4f0d9438ee6de621a82, type: 3}
+  saveMenuPrefab: {fileID: 396707137280514929, guid: 7645ffa9ee9114b608716da20d373e71, type: 3}
+  canvasPrefab: {fileID: 359271701614060456, guid: 0a3f7cad94ae64de58f84b0f643cad9f, type: 3}
